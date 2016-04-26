@@ -39,6 +39,10 @@ body {
 	text-decoration: none;
 }
 
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  background: #FFE4B5;
+}
+
 #nav-list {
   margin-top: 10px;
 }
