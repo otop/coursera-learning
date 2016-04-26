@@ -3,6 +3,10 @@ body {
 	font-size: 16px;
 }
 
+.navbar {
+	min-height: 70px;
+}
+
 .navbar-brand h1 {
 	font-family: 'Lora', serif;
 	color: #FFA500;
@@ -17,6 +21,9 @@ body {
 
 #header-nav {
 	background: #FFFACD;
+	border-radius: 0
+	border: 0;
+	height: 
 }
 
 .navbar-header button.navbar-toggle {
