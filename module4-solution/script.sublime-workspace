@@ -1,0 +1,343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"test",
+				"text-transform"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"te",
+				"test-final"
+			],
+			[
+				"re",
+				"reporter"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"righ",
+				"margin-right"
+			],
+			[
+				"le",
+				"margin-left"
+			],
+			[
+				"bo",
+				"border-spacing"
+			],
+			[
+				"to",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"Se",
+				"sans-serif"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/PyCharm-2016.1/Crack/ReadMe.txt",
+		"/D/Install/Lingvo/readme.txt",
+		"/D/boilerplate/gulpfile.js",
+		"/D/boilerplate/package.json",
+		"/C/Users/V15/my-project/my_module/metadata.py",
+		"/C/Users/V15/Downloads/HowtostartCIonanewnodejsproject.txt",
+		"/C/Users/V15/Desktop/New Text Document.txt",
+		"/D/boilerplate/test/example.js",
+		"/D/boilerplate/routes/test.js",
+		"/D/boilerplate/routes/utils.js",
+		"/D/boilerplate/.babelrc",
+		"/D/boilerplate/gulpfie.js",
+		"/D/boilerplate/routes/index.js",
+		"/D/coverage/test-final/coverage-final.json",
+		"/D/courseara-learning/coursera-learning/module3-solution/css/styles.css",
+		"/D/courseara-learning/coursera-learning/module3-solution/index.html",
+		"/D/courseara-learning/coursera-learning/module2-solution/css/style.css",
+		"/D/CourseareExamples/fullstack-course4/examples/Lecture35/after/css/styles.css",
+		"/D/CourseareExamples/fullstack-course4/examples/Lecture35/after/index.html",
+		"/D/courseara-learning/coursera-learning/index.html",
+		"/D/CourseareExamples/fullstack-course4/examples/Lecture25/index.html",
+		"/D/CourseareExamples/fullstack-course4/examples/Lecture25/css/styles.css",
+		"/D/courseara-learning/coursera-learning/module3-solution/index.html.txt",
+		"/D/courseara-learning/coursera-learning/module3-solution/css/bootstrap.min.css",
+		"/D/courseara-learning/coursera-learning/module3-solution/css/style.css.txt",
+		"/C/Users/V15/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/boilerplate/webpack.config.js",
+		"/D/boilerplate/client/index.jsx",
+		"/D/boilerplate/coverage/lcov-report/sorter.js",
+		"/D/boilerplate/coverage/coverage-final.json",
+		"/C/Users/V15/coursera-test/module2-solution/index.html",
+		"/D/boilerplate/.jshintrc.txt",
+		"/D/boilerplate/server.js",
+		"/C/Users/V15/coursera-test/module2-solution/css/style.css",
+		"/D/boilerplate/coverage/lcov-report/prettify.js",
+		"/D/boilerplate/public/js/main.js",
+		"/D/boilerplate/config.js",
+		"/D/Install/DAEMON Tools Pro v7.0.0.0555 Final Ml_Rus/Лечение.txt",
+		"/D/Wind/wsbrowserextensions/chrome/scripts/background.js",
+		"/D/Install/Alcohol 120% v2.0.3 Build 8703 Retail Ml_Rus/info/Readme.txt",
+		"/D/Heroes/WoG_Install/lang.txt",
+		"/D/Install/DAEMON Tools Pro v7.0.0.0555 Final Ml_Rus/About the program.txt",
+		"/D/ElifTech/BoilerplatePR/nodebootstrap/Dockerfile",
+		"/D/Wind/wsbrowserextensions/chrome/manifest.json",
+		"/D/Install/VMware Workstation 12 Pro v12.1.0 build 327444 Final/Serial (Expiration. No expiration.).txt",
+		"/D/Wind/wsbrowserextensions/chrome/css/styles.css",
+		"/C/Users/V15/coursera-test/site/style.css.txt",
+		"/C/Users/V15/coursera-test/site/css.css.txt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gutil",
+			"gls",
+			"=\"\"><",
+			"rela",
+			"re",
+			"babel",
+			"start"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "script.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
