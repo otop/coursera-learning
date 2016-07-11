@@ -115,7 +115,7 @@ function buildAndShowHomeHTML (categories) {
       // it into the home html snippet.
       // 
       var homeHtmlToInsertIntoMainPage = "<section class='row'>";
-      homeHtmlToInsertIntoMainPage += insertProperty(homeHtml, "short_name", chosenCategoryShortName);
+      homeHtmlToInsertIntoMainPage += insertProperty(homeHtml, "randomCategoryShortName", chosenCategoryShortName);
 
       homeHtmlToInsertIntoMainPage += "</section>";
       
